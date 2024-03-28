@@ -10,6 +10,6 @@ public class HomeworkS6Ex2 {
         System.out.println(firstNumber == secondNumber);
         String firstString = "26";
         String secoundString = "26";
-        System.out.println(firstString.equals(secondNumber));
+        System.out.println(firstString.equals(secoundString));
     }
 }
